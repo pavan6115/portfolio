@@ -157,9 +157,7 @@ h3 {
 }
 
 @media (max-width:480px) {
- .nav-pills {
-   margin-right: 13rem;
- }
+  
 }
 
 .tech-first {
