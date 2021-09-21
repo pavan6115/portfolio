@@ -16,6 +16,11 @@ hr {
 }
 
 /* heading (general) */
+h2 {
+  margin: .3rem 0rem
+}
+
+
 h3 {
   font-size: 1.5rem;
 }
@@ -190,12 +195,17 @@ h3 {
 }
 
 
+
 /* footer */
 .footer {
   background-color: var(--primary-color);
   padding: 2rem 1rem;
   text-align: center;
   border-top-right-radius: 1rem;
+}
+
+.fspace {
+  margin-top: 3rem;
 }
 
 .footer a {
